@@ -65,8 +65,6 @@ $J(\lambda)(ŷ) = D + \lambda R(ŷ)$
 
 The HiDNA codec is a cutting-edge solution for DNA-based image storage, offering a novel approach to digital data storage with high efficiency and robustness. By combining neural network models with DNA encoding techniques, HiDNA provides a powerful tool for managing the growing demands of digital data storage.
 
-For more detailed information and technical specifics, please refer to the provided documentation.
-
 ### References
 
 - COIN: Compression with Implicit Neural Representations. [Link to paper](https://arxiv.org/pdf/2103.03123)
